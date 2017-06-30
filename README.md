@@ -1,4 +1,4 @@
-Portal padrão em CMS Joomla 3.4.x
+Portal padrão em CMS Joomla 3.7.x
 ================
 
 Sobre esta versão
